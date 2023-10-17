@@ -1,6 +1,6 @@
 # <samp>Axmadjonov Eliboy</samp><img src="https://github.com/AxmadjonovEliboy/AxmadjonovEliboy/blob/master/assets/mario_hello_big.gif" width="30px" height="30px">
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-%23E4405F.svg?&style=flat-square&logo=faceebook&logoColor=white&color=071A2C&link=https://www.facebook.com/AxmadjonovEliboy/)](https://www.facebook.com/AxmadjonovEliboy)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-%23E4405F.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C&link=https://www.facebook.com/AxmadjonovEliboy/)](https://www.facebook.com/AxmadjonovEliboy)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/axmadjonov_eliboy)](https://www.instagram.com/axmadjonov_eliboy)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=flat-square&logo=Telegram&logoColor=white&color=071A2C&link=https://t.me/@Eliboy_06)](https://t.me/Eliboy_06)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=linkedin.com/in/eliboy-axmadjonov-292914230)](linkedin.com/in/eliboy-axmadjonov-292914230)
